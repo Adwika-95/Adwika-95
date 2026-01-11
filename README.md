@@ -3,7 +3,7 @@ I am a Second-Year CSE Core student with a strong interest in full-stack develop
 Currently, I am building my foundation by working on mini projects while learning and experimenting with:
 Frontend: HTML, CSS, JavaScript, React
 Backend: APIs, basic server-side logic
-Problem Solving: Daily DSA practice to improve logical thinking and coding efficiency
+Problem Solving: DSA practice to improve logical thinking and coding efficiency
 I believe in learning by building, so most of my work focuses on small, hands-on projects that help me understand concepts deeply and apply them practically.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adwika-191b1b30b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahrawatadwika@gmail.com) 
