@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Second-Year CSE Core student with a strong interest in full-stack development and emerging technologies like Machine Learning and AI.
+I am a Third-Year CSE Core student with a strong interest in full-stack development and emerging technologies like Machine Learning and AI.
 Currently, I am building my foundation by working on mini projects while learning and experimenting with:
 Frontend: HTML, CSS, JavaScript, React
 Backend: APIs, basic server-side logic
